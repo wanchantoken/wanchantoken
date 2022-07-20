@@ -34,6 +34,8 @@ Charitable Donation Account Address：
 
 Marketing & Incentives Account Address：
 
+LP Look  WC/BNB LP Token Lock Contract:
+
 ### Roadmap
 
 The project party's token has zero reservation, and there is no transaction tax in this item. 
