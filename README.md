@@ -39,3 +39,7 @@ Marketing & Incentives Account Address：
 The project party's token has zero reservation, and there is no transaction tax in this item. 
 
 Enjoy the trip to the moon. Good luck.
+
+* Phase I
+* Phase II
+* Phase III
