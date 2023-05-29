@@ -32,5 +32,7 @@ Contract address: 0x000000
 Zero Taxes. No Prerogative. Very Pure.
 
 60% of the tokens are used to add liquidity pools. The liquidity pools will be locked and the contract will be renounced.
+
 30% of the tokens are used for airdrops. The airdrops method is simple, just aimless token distribution. But after all, more people and less tokens, relying entirely on luck, or first come first served.
+
 10% of the tokens are only used to provide centralised exchanges listings in future. This part of the token will be deposited in this address (0x000000) for special use. You can check their movements at any time. By the way, starting from adding liquidity pools, after 3 months, if there are any remaining tokens, all will be destroyed.
