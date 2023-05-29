@@ -1,47 +1,36 @@
 ### Overview
 
-My name is WAN CHAN and I am from the moon, so I will return to my hometown one day. Before I do, I have something to whisper to you.
+The Adorkablest MeMe Coin For Us.
 
-Token Name: WAN CHAN
+Token Name: WANCHAN
 
-Token symbol ： $WC
+Token symbol: $WC
+
+
+### About $WC
+I am a red-nosed dogbro. You know, usually the red-nosed brother will be printed on the biggest card, becoming the trump card.
+
+They say we are "local dogs," they laugh at us as losers, and treat us like foolish children. Yet, they seem to forget that the red-nosed clown is the trump card.
+
+Kings mock and despise us, queens suppress and manipulate us, and Jacks harvest us like leeks. But can they really continue their wrongdoings in the world of blockchain - a world of freedom, equality, and justice?
+
+We believe in the contracts of smart contracts, we believe in the consensus of communities, and we believe in the power of decentralization. Cryptocurrencies give us the courage to look forward to the future. We will not give up, compromise, or submit to any authority or interest group.
+
+We will stick to our beliefs, using our wisdom and courage to create our own miracles in this crypto communities filled with opportunities and challenges. We are the "local dogs," the children, the losers, the red-nosed clowns, but we are also the ultimate trump card.
+
+We are part of the crypto communities, we are the soul of the crypto communities, and we are the future of the crypto communities!
+
+Now, do you know what WANCHAN ($WC) is? Yeap，$WC is “Wealth! Come on!”
 
 
 ### Tokenomics
 
-Total tokens: 100 billion 
+Total supply: 1,000,000,000,000. 1000 billion.
 
-Token distribution: 
+Contract address: 0x000000
 
-40% (40 billion) is used to add ethereum liquidity.
+Zero Taxes. No Prerogative. Very Pure.
 
-20% (20 billion) is used to add BSC liquidity.
-
-20% (20 billion) will be locked up for two years, and used for charitable donation after unlocking (for a period of three years, all undonated tokens will be destroyed after three years). 
-
-10% ($10 billion) for marketing, community building incentives. 
-
-10% (10 billion) is sent to Vitalik Buterin's Ethereum wallet address. 
-
-
-### Contract
-
-ETH Contract Address: 
-
-BSC Contract Address: 
-
-Charitable Donation Account Address：
-
-Marketing & Incentives Account Address：
-
-LP Look  WC/BNB LP Token Lock Contract:
-
-### Roadmap
-
-The project party's token has zero reservation, and there is no transaction tax in this item. 
-
-Enjoy the trip to the moon. Good luck.
-
-* Phase I
-* Phase II
-* Phase III
+60% of the tokens are used to add liquidity pools. The liquidity pools will be locked and the contract will be renounced.
+30% of the tokens are used for airdrops. The airdrops method is simple, just aimless token distribution. But after all, more people and less tokens, relying entirely on luck, or first come first served.
+10% of the tokens are only used to provide centralised exchanges listings in future. This part of the token will be deposited in this address (0x000000) for special use. You can check their movements at any time. By the way, starting from adding liquidity pools, after 3 months, if there are any remaining tokens, all will be destroyed.
