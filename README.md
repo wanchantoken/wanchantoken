@@ -4,7 +4,7 @@ The Adorkablest MeMe Coin For Us.
 
 Token Name: WANCHAN
 
-Token symbol: $WC
+Token symbol: WC
 
 
 ### About $WC
